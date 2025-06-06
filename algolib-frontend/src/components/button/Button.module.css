@@ -1,0 +1,18 @@
+.button {
+    background-color: var(--green);
+    color: var(--font-white);
+    font-weight: bold;
+    text-align: center;
+    padding: .35rem 2rem;
+    border-radius: 25px;
+    border: 2px solid transparent;
+    cursor: pointer;
+
+    transition: all 0.2s ease-in-out;
+}
+
+.button:hover {
+    color: var(--green);
+    background-color: var(--font-white);
+    border: 2px solid var(--green);
+}
