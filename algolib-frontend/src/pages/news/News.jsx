@@ -1,8 +1,10 @@
+import styles from "./News.module.css";
+
 function News() {
     return (
-        <>
-            News page.
-        </>
+        <section className={styles.newsContainer}>
+            <h1>News in Algorithms</h1>
+        </section>
     );
 }
 

@@ -1,5 +1,4 @@
 import { useNavigate } from "react-router";
-import Icon from '../../assets/logo-icon.svg';
 
 import styles from './Logo.module.css';
 import { useState } from "react";

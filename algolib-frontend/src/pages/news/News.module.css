@@ -1,0 +1,8 @@
+.newsContainer {
+    width: 100%;
+    padding: 1rem;
+}
+
+.newsContainer h1 {
+    text-align: center;
+}
